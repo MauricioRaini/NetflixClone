@@ -9,7 +9,8 @@
         Used several dependencies (check package.json).</p>
     </head>
     <section>
-        <img src="./src/imgReadMe/netflixCloneImage.jpg" alt="Demo Image">
-        <img src="./src/imgReadMe/DemoApp2.png" alt="Demo Image 2">
+        <img src="./src/imgReadMe/imgDemo1.jpg" alt="Demo Image 1">
+        <img src="./src/imgReadMe/imgDemo2.png" alt="Demo Image 2">
+        <img src="./src/imgReadMe/imgDemo3.png" alt="Demo Image 3">
     </section>
 </body>
