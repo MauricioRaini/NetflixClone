@@ -10,6 +10,6 @@
     </head>
     <section>
         <img src="./src/imgReadMe/netflixCloneImage.jpg" alt="Demo Image">
-        <img src="./src/imgReadMe/DemoApp2" alt="Demo Image 2">
+        <img src="./src/imgReadMe/DemoApp2.png" alt="Demo Image 2">
     </section>
 </body>
